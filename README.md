@@ -1,7 +1,7 @@
 # UIC-Bank-v1.0
 C++ program to manage bank accounts
 
-The goal in UIC-Bank-v1.0 project is to build a C++ program to manage the bank accounts associated with UIC Bank v1.0. The bank has exactly 5 customers, and the program
+The goal in UIC-Bank-v1.0 project is to build a C++ program to manage the bank accounts associated with UIC Bank v1.0. The bank has exactly 5 customers, and the program allows the user to perform the following banking operations:
 1. Deposit (+)
 2. Withdrawal (-)
 3. Check balance (?)
