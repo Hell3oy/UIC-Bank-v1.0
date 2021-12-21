@@ -8,7 +8,7 @@ The goal in UIC-Bank-v1.0 project is to build a simple C++ program to manage the
 4. Find the account with the largest balance (^)
 5. List all accounts and balances (*)
 
-## Bank Task Pdf [Link](https://www.google.com)
+## Bank Task Pdf [Link](https://github.com/Hell3oy/UIC-Bank-v1.0/blob/main/bank/Bank%20Task.pdf)
 
 # Here’s a screenshot of how the program behaves
 
